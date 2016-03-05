@@ -1,0 +1,10 @@
+GNATS IRC BOT
+=============
+
+NOT FUNCTIONNING YET
+EXPERIMENTATION PHASE
+
+- Look for new PRs and store info in DB
+- Send info on irc
+- periodical statistics
+- get info based on bug id
